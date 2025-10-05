@@ -622,7 +622,7 @@ style:
     active: true
     maxJumpCount: 1
   MagicNumber:
-    active: false
+    active: true
   MandatoryBracesLoops:
     active: false
   MaxChainedCallsOnSameLine:
