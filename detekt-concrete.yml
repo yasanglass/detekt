@@ -1,0 +1,12 @@
+style:
+  ForbiddenImport:
+    active: true
+    excludes: ['**/glass/yasan/concrete/component/**']
+    imports:
+      - 'androidx.compose.material3.Text'
+      - 'androidx.compose.material3.HorizontalDivider'
+      - 'androidx.compose.material3.VerticalDivider'
+      - 'androidx.compose.material3.Switch'
+      - 'androidx.compose.material3.Slider'
+      - 'androidx.compose.material3.Checkbox'
+      - 'androidx.compose.material3.RadioButton'
