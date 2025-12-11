@@ -1,7 +1,7 @@
 style:
   ForbiddenImport:
     active: true
-    excludes: ['**/glass/yasan/concrete/component/**']
+    excludes: ['**/glass/yasan/kepko/component/**']
     imports:
       - 'androidx.compose.material3.Text'
       - 'androidx.compose.material3.HorizontalDivider'
