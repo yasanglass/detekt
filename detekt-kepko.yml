@@ -12,3 +12,4 @@ style:
       - 'androidx.compose.material3.Switch'
       - 'androidx.compose.material3.Text'
       - 'androidx.compose.material3.VerticalDivider'
+      - 'androidx.compose.material3.Surface'
