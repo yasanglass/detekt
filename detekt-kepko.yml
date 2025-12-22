@@ -13,3 +13,5 @@ style:
       - 'androidx.compose.material3.Text'
       - 'androidx.compose.material3.VerticalDivider'
       - 'androidx.compose.material3.Surface'
+      - 'androidx.compose.material3.LinearProgressIndicator'
+      - 'androidx.compose.material3.CircularProgressIndicator'
