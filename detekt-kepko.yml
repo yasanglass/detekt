@@ -13,6 +13,7 @@ style:
       - 'androidx.compose.material3.LinearWavyProgressIndicator'
       - 'androidx.compose.material3.MaterialTheme'
       - 'androidx.compose.material3.RadioButton'
+      - 'androidx.compose.material3.Scaffold'
       - 'androidx.compose.material3.Slider'
       - 'androidx.compose.material3.Surface'
       - 'androidx.compose.material3.Switch'
