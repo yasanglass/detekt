@@ -11,6 +11,7 @@ style:
       - 'androidx.compose.material3.Icon'
       - 'androidx.compose.material3.LinearProgressIndicator'
       - 'androidx.compose.material3.LinearWavyProgressIndicator'
+      - 'androidx.compose.material3.MaterialTheme'
       - 'androidx.compose.material3.RadioButton'
       - 'androidx.compose.material3.Slider'
       - 'androidx.compose.material3.Surface'
