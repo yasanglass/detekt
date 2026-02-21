@@ -1,7 +1,7 @@
 style:
   ForbiddenImport:
     active: true
-    excludes: ['**/glass/yasan/kepko/component/**', '**/glass/yasan/kepko/foundation/**']
+    excludes: ['**/glass/yasan/kepko/component/**']
     imports:
       - 'androidx.compose.material3.Button'
       - 'androidx.compose.material3.Checkbox'
