@@ -22,5 +22,6 @@ style:
       - 'androidx.compose.material3.TextField'
       - 'androidx.compose.material3.VerticalDivider'
       - 'androidx.compose.material3.contentColorFor'
+      - 'androidx.compose.foundation.shape.CircleShape'
       - 'androidx.compose.foundation.isSystemInDarkTheme'
       - 'io.github.kdroidfilter.platformtools.darkmodedetector.isSystemInDarkMode'
